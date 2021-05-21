@@ -4,7 +4,7 @@ from wit import Wit
 import json
 
 answers = {
-    "campus_openingsuren_get": "maandag: 08:00–22:00 \ndinsdag: 08:00–22:00 \nwoensdag: 08:00–22:00 \ndonderdag: 08:00–22:00 \nvrijdag:	08:00–22:00 \nzaterdag: 08:00–17:00 \nzondag: Gesloten \n",
+    "campus_openingsuren_get": "maandag: 08:00–22:00 \ndinsdag: 08:00–22:00 \nwoensdag: 08:00–22:00 \ndonderdag: 08:00–22:00 \nvrijdag: 08:00–22:00 \nzaterdag: 08:00–17:00 \nzondag: Gesloten \n",
     "site_get": "U kunt onze site onder deze url terug vinden: https://www.vives.be/nl/campussen/brugge/brugge-xaverianenstraat",
     "greeting_get": "goeie dag, waarmee zou de DevChat bot u kunnen verder verhelpen?",
     "opleidingen_get": "de opleidingen zijn onder de volgende link terug te vinden: https://www.vives.be/nl/opleidingen?f%5B0%5D=field_targets%3A9",
